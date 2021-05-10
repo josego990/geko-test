@@ -41,7 +41,7 @@
 			android:layout_height="200dp"
 			android:layout_centerHorizontal="true"
 			android:layout_centerVertical="true"
-			android:src="@drawable/logo_3"
+			android:src="@drawable/geco_logo"
             android:layout_marginTop="30dp"
 
 			/>
@@ -142,15 +142,15 @@
 			android:layout_height="wrap_content"
 			android:textColor="@color/color_edittext_hint_two"
 			android:textAppearance="?android:attr/textAppearanceSmall"
-			android:text="No tienes una cuenta?"
+			android:text="Don't have an account?"
 			android:typeface="serif"/>
 
 		<TextView
 			android:id="@+id/tv_suscribe"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:textAppearance="?android:attr/textAppearanceSmall"
-			android:text="Suscribete"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:text="Subscribe here"
 			android:textColor="@color/color_edittext_hint_two"
 			android:textStyle="bold"
 			android:layout_marginLeft="10dp"
