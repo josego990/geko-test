@@ -187,6 +187,13 @@ public class LoguinActivity extends AppCompatActivity
 
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        GetSharedPreferences();
+    }
+
     private void GetSharedPreferences(){
 
         SharedPreferences sp =  getSharedPreferences("user_pref",MODE_PRIVATE);
