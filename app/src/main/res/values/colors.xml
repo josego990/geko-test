@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81</color>
+
+    <color name="color_login_button">#D81</color>
+    <color name="color_login_buttonpress">#D81</color>
+    <color name="color_signup_button">#F2F2F2</color>
+    <color name="color_signup_buttonpress">#EBEBEB</color>
+    <color name="color_primary_men">#00ACC1</color>
+    <color name="color_product_bottom">#ffffff</color>
+    <color name="color_edittext_hint">#aaa</color>
+    <color name="color_edittext_hint_two">#aac</color>
+
+    <color name="color_edittext_label">#fff</color>
+
+    <color name="white">#fff</color>
+    <color name="white_transparent">#e6ffffff</color>
+    <color name="black_transparent">#00000000</color>
+    <color name="black">#000</color>
+
+    <color name="yellow">#ECD909</color>
+
+    <color name="primary">#D81</color>
+    <color name="secondary">#0088C9</color>e
+    <color name="dark">#00548C</color>
+
+    <color name="button_off_red">#b30000</color>
+    <color name="button_on_green">#006600</color>
+
+
+    <color name="color_green_transparent">#ff0000</color>
+    <color name="color_orange_transparent">#011420</color>
+
+
+    <color name="start_color">#23D5B4</color>
+    <color name="end_color">#2386B4</color>
+    <color name="yellow_color">#FECD06</color>
+
+
+    <color name="text_primary_ligth">#ffffff</color>
+    <color name="text_primary_dark">#27323A</color>
+    <color name="text_primary_gray">#4B4B4D</color>
+</resources>
